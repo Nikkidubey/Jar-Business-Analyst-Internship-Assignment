@@ -1,4 +1,4 @@
-# Jar-Business-Analyst-Internship-Assignment
+# Jar-Business-Analyst--Assignment
 Business Analyst Internship Assignment for Jar — Data Analysis, Visualization, and App Improvement Suggestions using Python and Jupyter Notebook.
 
 # 💼 Jar Business Analyst Internship Assignment
